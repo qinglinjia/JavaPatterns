@@ -1,0 +1,10 @@
+package cn.com.simpleFactory03.product;
+
+/**
+ * 具体产品B1
+ *
+ * @author jiaql
+ * @create 2017-04-26 10:59
+ */
+public class ConcreteProductB1 extends AbstractProductB {
+}

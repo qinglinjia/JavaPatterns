@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+    <!--RefinedAbstraction-->
+    <className>image.JPGImage</className>
+    <!--ConcreteImplementor-->
+    <className>apiImpl.WindowsImp</className>
+</config>
